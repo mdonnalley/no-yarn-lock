@@ -1,0 +1,14 @@
+{
+  "name": "no-yarn-lock",
+  "version": "1.0.0",
+  "description": "Repro for reproducing npm v9 bug",
+  "main": "index.js",
+  "repository": "git@github.com:mdonnalley/no-yarn-lock.git",
+  "author": "Mike Donnalley <mdonnalley@salesforce.com>",
+  "license": "MIT",
+  "private": false,
+  "files": [
+    "index.js",
+    "yarn.lock"
+  ]
+}

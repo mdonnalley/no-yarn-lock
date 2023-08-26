@@ -4,7 +4,7 @@ Steps to reproduce
 `cd no-yarn-lock && yarn`
 `npm pack --dry-run`
 
-on `npm v9.5.0` **yarn.lock not included**
+on `npm v9.8.1` **yarn.lock not included**
 ```
 npm notice
 npm notice 📦  no-yarn-lock@1.0.0

@@ -1,7 +1,9 @@
 Steps to reproduce
 
 `git clone https://github.com/mdonnalley/no-yarn-lock.git`
+
 `cd no-yarn-lock && yarn`
+
 `npm pack --dry-run`
 
 on `npm v9.8.1` **yarn.lock not included**
